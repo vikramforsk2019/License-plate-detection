@@ -11,5 +11,5 @@ Python 3.7 or later with the following pip3 install -U -r requirements.txt packa
 # output
 ![1](https://user-images.githubusercontent.com/51817568/79449401-c4e63d00-8000-11ea-91eb-5cc6b0955fa0.png)
 ![2](https://user-images.githubusercontent.com/51817568/79449505-f5c67200-8000-11ea-8bac-5c2eb5eab111.png)
-![46_yolo_out_py](https://user-images.githubusercontent.com/51817568/79449610-2c9c8800-8001-11ea-8b9b-b981357278ae.jpg)
-![](static/uploads/15.jpg)
+
+![](static/uploads/46_yolo_out_py.jpg)
