@@ -9,5 +9,5 @@ Python 3.7 or later with the following pip3 install -U -r requirements.txt packa
     numpy==1.17.2
     pandas==0.25.1
 # output
-![alt text](https://github.com/vikramforsk2019/License-plate-detection/edit/master/img.png)    
+![alt text](https://github.com/vikramforsk2019/License-plate-detection/master/static/uploads/1.png)    
  
