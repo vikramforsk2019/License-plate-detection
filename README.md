@@ -1,6 +1,6 @@
 # License-plate-detection
 number plate detection using yolo3 and Flask api
-# download weight file
+# download Pretrained weight file
 https://www.kaggle.com/achrafkhazri/yolo-weights-for-licence-plate-detector
 # Description
 Python 3.7 or later with the following pip3 install -U -r requirements.txt packages:
