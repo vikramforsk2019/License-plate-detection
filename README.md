@@ -13,7 +13,7 @@ Python 3.7 or later with the following pip3 install -U -r requirements.txt packa
 # run the app.py
 python app.py
 # open browser
-localhost:5000/
+localhost:5000/upload
 # output
 ![babu](https://user-images.githubusercontent.com/51817568/87649779-5b480d00-c76e-11ea-8d7f-80ce1c39db05.png)
 ![babu_yolo_out_py](https://user-images.githubusercontent.com/51817568/87649870-77e44500-c76e-11ea-9b5f-6a687325187a.jpg)
