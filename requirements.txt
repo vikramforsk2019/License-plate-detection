@@ -13,7 +13,7 @@ Keras==2.2.5
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 mysql-connector-python==8.0.19
-numpy==1.17.2
+numpy==1.22.0
 numpydoc==0.9.1
 oauthlib==3.1.0
 olefile==0.46
